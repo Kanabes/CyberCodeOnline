@@ -66,7 +66,7 @@
  	 	 	 	"eng": "Shangri-La City center"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "[Центр]\r\n        Один из самых оживленных городов материка. Здесь вы можете встретить разных людей со всего земного шара.",
+ 	 	 	 	"trans": "[Центр]\r\n        Один из самых оживленных городов материка. Здесь вы можете повстречать разных людей со всего земного шара.",
  	 	 	 	"eng": "[Central Hub]\r\n        One of the busiest cities in the continent. Here you can find all sorts of people from around the globe."
  	 	 	},
  	 	 	"toStation": {
@@ -75,7 +75,7 @@
  	 	 	 	 	"eng": "Go to Hyper Train Central Station"
  	 	 	 	},
  	 	 	 	"tut": {
- 	 	 	 	 	"trans": "Начните свое приключение за эпическими предметами здесь",
+ 	 	 	 	 	"trans": "Начните свое приключение за эпическим лутом здесь",
  	 	 	 	 	"eng": "Start your adventure for epic loot here"
  	 	 	 	},
  	 	 	 	"description": {
@@ -312,7 +312,7 @@
  	 	 	 	"eng": "Terminal"
  	 	 	},
  	 	 	"tut": {
- 	 	 	 	"trans": "Чтобы перейти в следующую локацию, тебе нужно использовать секретные части ключей из подземелий \r\n        и запустить Терминал, чтобы грубой силой взломать ключ к следующей локации",
+ 	 	 	 	"trans": "Чтобы перейти в следующую локацию, тебе нужно использовать секретные части ключей из подземелий \r\n        и запустить Терминал, чтобы забрутфорсить ключ к следующей локации",
  	 	 	 	"eng": "To progress to the next area, you need to get Secret Key Fragments from dungeons, \r\n        and use the Terminal to Brute Force the key for next area"
  	 	 	},
  	 	 	"description": {
@@ -392,7 +392,7 @@
  	 	},
  	 	"increaseMedical": {
  	 	 	"name": {
- 	 	 	 	"trans": "Взлом клиники модификаций тела",
+ 	 	 	 	"trans": "Взлом Клиники Модификаций Тела",
  	 	 	 	"eng": "Hack a Body Mod Clinic"
  	 	 	},
  	 	 	"description": {
